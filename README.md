@@ -6,9 +6,9 @@ PysimpleGUIで作成した学会タイマー<br>
 ### 環境<br>
 windows10
 ### 使い方<br>
-"""
+'''bash
 python alarm_time.py
-"""
+'''
 
 ### インストール<br>
 
