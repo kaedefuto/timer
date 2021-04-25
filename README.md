@@ -1,7 +1,7 @@
 # timer
-PysimpleGUIで作成した学会タイマー
+PysimpleGUIで作成した学会タイマー<br>
 
-## 参考サイト  
+### 参考サイト  
 ### PysimpleGUI  
 http://www.k-techlabo.org/www_python/PySimpleGUI.pdf  
 https://qiita.com/nemous_nuke/items/8ddd0a4290209410d25d
