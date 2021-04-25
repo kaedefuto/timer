@@ -1,4 +1,3 @@
-#! python3.9.0
 import PySimpleGUI as sg
 import time
 import wave
