@@ -24,6 +24,7 @@ python -m pip install PySimpleGUI
 ```bash
 pip install PyAudio
 ```
+* 問題点として音声を入れるラグくなる
 
 ### 参考サイト<br>
 PysimpleGUI<br>
