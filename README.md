@@ -4,7 +4,8 @@ PysimpleGUIで作成した学会タイマー<br>
 ### 概要<br>
 学会発表でよく使われるタイマーを再現しました<br>
 ### 環境<br>
-windows10
+windows10<br>
+* PySimpleGUI 4.34.0
 ### 使い方<br>
 ```bash
 python alarm_time.py
@@ -12,7 +13,8 @@ python alarm_time.py
 
 ### インストール<br>
 ```bash
-pip install PysampleGUI
+pip install PysimpleGUI
+pip install PyAudio
 ```
 
 ### 参考サイト<br>
