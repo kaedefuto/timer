@@ -11,6 +11,10 @@ PysimpleGUIで作成した学会タイマー<br>
 ```bash
 python alarm_time.py
 ```
+または
+```bash
+python -m pip install PySimpleGUI
+```
 
 ### インストール<br>
 ```bash
