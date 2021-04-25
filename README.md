@@ -14,7 +14,7 @@ python alarm_time.py
 
 ### インストール<br>
 ```bash
-pip install PysimpleGUI
+pip install PySimpleGUI
 pip install PyAudio
 ```
 
