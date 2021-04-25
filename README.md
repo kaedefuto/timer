@@ -11,6 +11,9 @@ python alarm_time.py
 ```
 
 ### インストール<br>
+```bash
+pip install PysampleGUI
+```
 
 ### 参考サイト<br>
 PysimpleGUI<br>
