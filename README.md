@@ -3,11 +3,12 @@ PysimpleGUIで作成した学会タイマー<br>
 
 ### 概要<br>
 学会発表でよく使われるタイマーを再現しました<br>
-
 ### 環境<br>
 windows10
-
-### 使い方
+### 使い方<br>
+```bash
+pip install huga_package
+```
 
 ### インストール<br>
 
