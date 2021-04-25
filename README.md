@@ -1,6 +1,16 @@
 # timer
 PysimpleGUIで作成した学会タイマー<br>
 
+### 概要<br>
+学会発表でよく使われるタイマーを再現しました<br>
+
+### 環境<br>
+windows10
+
+### 使い方
+
+### インストール<br>
+
 ### 参考サイト<br>
 PysimpleGUI<br>
 http://www.k-techlabo.org/www_python/PySimpleGUI.pdf<br> 
