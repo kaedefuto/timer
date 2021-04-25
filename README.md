@@ -21,6 +21,7 @@ pip install PySimpleGUI
 python -m pip install PySimpleGUI
 ```
 * 音声を使う場合はpyaudioのインストールとコメントアウトを外す
+* 別途でフリーのwavファイルが必要
 ```bash
 pip install PyAudio
 ```
