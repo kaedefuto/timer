@@ -4,6 +4,7 @@ PysimpleGUIで作成した学会タイマー<br>
 ### 概要<br>
 * 学会発表でよく使われるタイマーを再現しました<br>
 ![画像](https://github.com/kaedefuto/timer/blob/main/2021-04-26%20114655.png" サンプル")
+<img src="https://github.com/kaedefuto/timer/blob/main/2021-04-26%20114655.png" alt="エビフライトライアングル" title="サンプル">
 ### 環境<br>
 * Windows10<br>
 * PySimpleGUI 4.34.0
